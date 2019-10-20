@@ -1,0 +1,3 @@
+com\yl\hello\spring\cloud\consumer\ConsumerApplication.class
+com\yl\hello\spring\cloud\consumer\controller\ConsumerController.class
+com\yl\hello\spring\cloud\consumer\feign\IRemoteService.class
